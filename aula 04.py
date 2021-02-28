@@ -1,3 +1,4 @@
+#Aula 04
 #Variável recebe dados pelo input
 nome = input ('Qual é seu nome?')
 idade = input ('Qual sua idade?')
