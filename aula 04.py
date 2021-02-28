@@ -4,4 +4,4 @@ idade = input ('Qual sua idade?')
 peso = input ('Qual seu peso?')
 
 #Print imprime na tela as variáveis
-print (nome, idade, peso)
+print (nome, idade, peso) 

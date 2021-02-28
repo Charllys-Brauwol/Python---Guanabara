@@ -5,4 +5,4 @@
 nome = input ('Qual seu nome?\n')
 
 #printar na tela a mensagem de boas-vindas
-print('Olá',nome,', seja bem vindo!')
+print('Olá',nome,', seja bem vindo!') 

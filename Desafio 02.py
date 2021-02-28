@@ -7,4 +7,4 @@ mês = input('Digite o mês que nasceu:\n')
 ano = input('Digite o ano que nasceu:\n')
 
 #Printando a Data de Nascimento
-print ('Data de Nascimento:',dia,'/',mês,'/',ano)
+print ('Data de Nascimento:',dia,'/',mês,'/',ano) 

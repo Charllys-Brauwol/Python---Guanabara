@@ -8,4 +8,4 @@ numero02 = input ('Digite o Segundo número: ')
 soma = int (numero01) + int (numero02)
 
 #Printando na tela a Soma
-print('A soma de', numero01, '+', numero02, 'é:', soma)
+print('A soma de', numero01, '+', numero02, 'é:', soma) 
